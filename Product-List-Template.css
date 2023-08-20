@@ -1,0 +1,265 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1104px;
+}
+
+.u-section-1 .u-products-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 0px 0px;
+  min-height: 932px;
+  grid-auto-columns: 25%;
+}
+
+.u-section-1 .u-repeater-item-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-1 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-2 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-2 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-3 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-3 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-4 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-4 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-5 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-5 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-6 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-6 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-7 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-7 {
+  margin: 0 auto 0 129px;
+}
+
+.u-section-1 .u-repeater-item-8 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 10px 21px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 120px;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-product-price-8 {
+  margin: 0 auto 0 129px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+    min-height: 768px;
+  }
+
+  .u-section-1 .u-product-price-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-4 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-6 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-7 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-8 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 50% 50%;
+    min-height: 2353px;
+    grid-auto-columns: 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
